@@ -1,4 +1,4 @@
-# Olá, eu sou Miguel Antunes Pissolatto 
+# Olá, meu nome é Miguel Antunes Pissolatto 
 
 ###  Estudante de Ciência da Computação | Aspirante a Analista de Cibersegurança
 
@@ -22,8 +22,8 @@ Sou um entusiasta de tecnologia focado em entender como os sistemas funcionam po
 ---
 
 ### 📊 Estatísticas:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pissolatto-dev&show_icons=true&theme=radical)
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pissolatto-dev/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pissolatto-dev)
